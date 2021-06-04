@@ -1,0 +1,26 @@
+@import "../fonts/Roboto/stylesheet.css";
+@import "../lib/bootstrap/bootstrap-grid.min.css";
+@import "../lib/owl/owl.carousel.min.css";
+@import "../lib/owl/owl.theme.default.min.css";
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+a{
+  color: inherit;
+  text-decoration: none;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
+@import "header";
+@import "home";
+@import "team";
+@import "leads";
+@import "welcome";
+@import "stay";
+@import "payments";
+
+

@@ -1,0 +1,17 @@
+.header{
+  padding-top: 15px;
+  width: 100%;
+  position: absolute;
+  .container{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__join{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+  }
+}

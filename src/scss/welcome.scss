@@ -1,0 +1,26 @@
+.welcome{
+  background: #E5E5E5;
+  padding-top: 199px;
+  padding-bottom: 247px;
+  &__subtitle{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #FF573D;
+    padding-bottom: 15px;
+  }
+  &__title{
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    color: #191919;
+    width: 800px;
+    margin: 0 auto;
+  }
+}
